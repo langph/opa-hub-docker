@@ -1,0 +1,2 @@
+editbaar (aanpassen opties) : chmod 7777 config-file.cnf 
+leesbaar voor mysql         : chmod 0444 config-file.cnf  
